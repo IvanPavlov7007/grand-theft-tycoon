@@ -1,0 +1,23 @@
+{
+    "name": "CommonToolsEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:91de4d4ef51e7ac429dd564b019ee95b",
+        "GUID:21d1eb854b91ade49bc69a263d12bee2",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:e43142fc3fec6554980dde6126631f1d",
+        "GUID:2e77701fe0ceda44fb763f03ee704c37"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
