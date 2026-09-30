@@ -5,81 +5,907 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e8ede7b-73da-4df4-a8b7-b0f15c3f0fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GlobalSingletonBehaviour.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GlobalSingletonBehaviour.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CarSeller/.idea/copilotDiffState.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CarSeller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CarSeller/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Resources/Fonts/Sofia_Sans/static/SofiaSans-Medium SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Resources/Fonts/Sofia_Sans/static/SofiaSans-Medium SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Resources/Prefabs/Core/Core.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Resources/Prefabs/Core/Core.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Resources/Prefabs/UI/Shared Canvases.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Resources/Prefabs/UI/Shared Canvases.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Resources/Fonts/Sofia_Sans/static/SofiaSans-MediumItalic SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Resources/Fonts/Sofia_Sans/static/SofiaSans-MediumItalic SDF.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scenes/City Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scenes/City Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/SellHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/SellHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/WarehouseEnterProcess.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/WarehouseEnterProcess.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/InteractionController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/InteractionController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click/GameCursor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click/GameCursor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click/Interactable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click/Interactable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/CitySceneMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/CitySceneMain.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/G.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/G.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/ServicedMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/ServicedMain.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/LocatableStateChangeEventFunnel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/LocatableStateChangeEventFunnel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/WorldManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/WorldManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/SceneEntrancePoint.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/SceneEntrancePoint.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Buyers/BuyerProcess.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Buyers/BuyerProcess.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CameraMovement/CameraMovementManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CameraMovement/CameraMovementManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CameraMovement/City/CameraHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CameraMovement/City/CameraHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop/CarShopSceneManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop/CarShopSceneManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/CarStashWarehouse/CarStashProcess.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/CarStashWarehouse/CarStashProcess.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/CityInteractionManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/CityInteractionManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/CitySceneManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/CitySceneManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/DragInteractable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/DragInteractable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/StreetsSingleton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/StreetsSingleton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Vision/CityFogRenderer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Vision/CityFogRenderer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/ContextMenuManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/ContextMenuManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/FixedContextMenuManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/FixedContextMenuManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/ObjectWithPopupMenuTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/ObjectWithPopupMenuTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug/DebugCustomActions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug/DebugCustomActions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug/DebugGameBootstrapper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug/DebugGameBootstrapper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/FreeRoam/CollectablesManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/FreeRoam/CollectablesManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/GameEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/GameEvents.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/IconBuilder/IconBuilderHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/IconBuilder/IconBuilderHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/IconBuilder/IconBuilderManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/IconBuilder/IconBuilderManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/PlayerInputController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/PlayerInputController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/PlayerInputLocator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/PlayerInputLocator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/UIInputController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/UIInputController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/MissionController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/MissionController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/SelectPrimaryVehicleProcess.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/SelectPrimaryVehicleProcess.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/Shop/PersonalvehicleShopProcess.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/Shop/PersonalvehicleShopProcess.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/Model/PoliceUnit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/Model/PoliceUnit.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/PoliceManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/PoliceManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/View/PoliceSpotlightVisionVisuals.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/View/PoliceSpotlightVisionVisuals.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/CongradulationsMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/CongradulationsMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/MoneyGoalManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/MoneyGoalManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Trigger/Triggerable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Trigger/Triggerable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Physics/DirectDragInteractable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Physics/DirectDragInteractable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/PlayerPossessionTracker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/PlayerPossessionTracker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/WarehouseInteractionManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/WarehouseInteractionManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/WarehouseSceneManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/WarehouseSceneManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/DynamicCanvasGroups.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/DynamicCanvasGroups.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/GlobalUIMethods.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/GlobalUIMethods.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/BlockUI/BlockUIManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/BlockUI/BlockUIManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/CarShop/CarShopUIManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/CarShop/CarShopUIManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIPin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIPin.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/VehicleControl/VehicleControlUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/VehicleControl/VehicleControlUI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/ContextMenuCanvas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/ContextMenuCanvas.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/FixedContextMenuCanvas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/FixedContextMenuCanvas.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/GlobalHint/GlobalHintManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/GlobalHint/GlobalHintManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/Pause/PauseMenuManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/Pause/PauseMenuManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI_FX/UIEffectsDisplayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI_FX/UIEffectsDisplayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI_FX/UI_FX_Manager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI_FX/UI_FX_Manager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/ButtonView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/ButtonView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/View/ButtonStateController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/View/ButtonStateController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/AreaProgressionManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/AreaProgressionManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CenterButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CenterButton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/DebugCommands.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/DebugCommands.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/ProgressOverviewManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/ProgressOverviewManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/CarSeller.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/CarSeller.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Common.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Common/Events.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/CarSelling.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/CarSelling/Offer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/CarSelling/Offer/CarSellOffer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/CarSelling/Offer/CarSellOffer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/CarSelling/Presenter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/CarSelling/Presenter/CarSellOneTimeOfferProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/CarSelling/Presenter/CarSellOneTimeOfferProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/Economy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/Economy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/EconomyConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/EconomyConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/Possesion.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/Possesion/PlayerStartState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/Possesion/PlayerStartState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/PriceCalculating.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/PriceCalculating/ProductPriceCalculator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Economy/PriceCalculating/ProductPriceCalculator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Editor/VariantConfigFallbackValidator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Editor/VariantConfigFallbackValidator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/IDestroyable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/IDestroyable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Player.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Player/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Player/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ConfigResolvers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ConfigResolvers/CarConfigResolver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ConfigResolvers/CarConfigResolver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ConfigResolvers/Generic.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ConfigResolvers/Generic/GenericConfigResolver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ConfigResolvers/Generic/GenericConfigResolver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ConfigResolvers/PartSlotResolver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ConfigResolvers/PartSlotResolver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/ConfigInterfaces.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/ConfigInterfaces.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/ILocation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/ILocation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/IOwnable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/IOwnable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/IPossession.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/IPossession.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/Product.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/Product.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/Registerable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/Registerable/IRegisterable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Core/Registerable/IRegisterable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/Car.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/Car.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/CarBaseConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/CarBaseConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/CarRuntimeConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/CarRuntimeConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/CarVariantConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/CarVariantConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/PartSlot.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/PartSlot/PartSlotBaseConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/PartSlot/PartSlotBaseConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/PartSlot/PartSlotRuntimeConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/PartSlot/PartSlotRuntimeConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/PartSlot/PartSlotType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/PartSlot/PartSlotType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/PartSlot/PartSlotVariantConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/PartSlot/PartSlotVariantConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/SimplifiedModel.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/SimplifiedModel/SimplifiedCarModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Car/SimplifiedModel/SimplifiedCarModel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/CarFrame.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/CarFrame/CarFrame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/CarFrame/CarFrame.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/CarFrame/CarFrameBaseConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/CarFrame/CarFrameBaseConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/CarFrame/CarFrameRuntimeConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/CarFrame/CarFrameRuntimeConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/CarFrame/CarFrameVariantConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/CarFrame/CarFrameVariantConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Engine.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Engine/Engine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Engine/Engine.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Engine/EngineBaseConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Engine/EngineBaseConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Engine/EngineRuntimeConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Engine/EngineRuntimeConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Engine/EngineVariantConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Engine/EngineVariantConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Spoiler.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Spoiler/Spoiler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Spoiler/Spoiler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Spoiler/SpoilerBaseConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Spoiler/SpoilerBaseConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Spoiler/SpoilerRuntimeConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Spoiler/SpoilerRuntimeConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Spoiler/SpoilerVariantConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Spoiler/SpoilerVariantConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Wheel.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Wheel/Wheel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Wheel/Wheel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Wheel/WheelBaseConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Wheel/WheelBaseConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Wheel/WheelRuntimeConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Wheel/WheelRuntimeConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Wheel/WheelVariantConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/GameProducts/Wheel/WheelVariantConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ProductBuilder.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ProductBuilder/ProductBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/ProductBuilder/ProductBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Supply.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Supply/SuppliesList.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Supply/SuppliesList.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Supply/Supply.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/Model/Supply/Supply.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/View.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/View/IProductViewBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/Product/View/IProductViewBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/World.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/World/World.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/World/World.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/World/WorldRegistry.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Model/World/WorldRegistry.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Offer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Offer/Offer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Offer/Offer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Rules.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Rules/GameRules.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Rules/GameRules.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transaction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transaction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/TransactionData.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/ExchangeTransaction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/ExchangeTransaction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/PutProductsInHolderTransaction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/PutProductsInHolderTransaction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/RewardTransaction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/RewardTransaction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/SellTransaction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/SellTransaction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/StealTransaction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/StealTransaction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/WarehouseCarTranscations.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Model/Transactions/WarehouseCarTranscations.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/ConfiscateHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/ConfiscateHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/ExchangeHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/ExchangeHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/LoseHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/LoseHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/PullCarFromWarehouseHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/PullCarFromWarehouseHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/Purchase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/Purchase/PurchaseHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/Purchase/PurchaseHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/PutProductsInHolderHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/PutProductsInHolderHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/RewardHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/RewardHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/SellHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/SellHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/StealHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/StealHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/StripCarHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionHandlers/StripCarHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionProcessor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/Transactions/Presenter/TransactionProcessor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/CarshopEnterOffer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/CarshopEnterOffer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/Policy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/Policy/CarIntoWarehousePolicy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/Policy/CarIntoWarehousePolicy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/WarehouseEnterOffers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/WarehouseEnterOffers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/WarehouseEnterProcess.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/WarehouseEnterProcess.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/WarehouseExitProcess.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/WarehouseExitProcess.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/WarehouseInteractor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehouseEntranceAndExit/WarehouseInteractor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehousePurchase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehousePurchase/WarehouseOffer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehousePurchase/WarehouseOffer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehousePurchase/WarehouseOfferProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehousePurchase/WarehouseOfferProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehousePurchase/WarehouseOffersConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Core/Operations/WarehousePurchase/WarehouseOffersConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/GameFlowController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/GameFlowController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/GameFlowManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/GameFlowManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/GameManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/GameManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/GameState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/GameState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/IInteractionContent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/IInteractionContent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/IInteractionManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/IInteractionManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/InteractionController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/InteractionController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/ModelProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/ModelProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click/GameCursor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click/GameCursor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click/Interactable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click/Interactable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click/InteractionPhyscis.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Interaction/Point-And-Click/InteractionPhyscis.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/CitySceneMain.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/CitySceneMain.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/G.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/G.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GameConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GameConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GameMainConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GameMainConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GameModes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GameModes/CarShopGameModeData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GameModes/CarShopGameModeData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GlobalSingletonBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GlobalSingletonBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/ServicedMain.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/ServicedMain.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/AcquisitionResolver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/AcquisitionResolver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/CityActionService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/CityActionService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/LocatableLifetimeService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/LocatableLifetimeService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/LocatableStateChangeEventFunnel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/LocatableStateChangeEventFunnel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/OwnershipResolutionService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/OwnershipResolutionService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/PlayerManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/PlayerManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/ProductLifetimeService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/ProductLifetimeService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/ProductLocationService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/ProductLocationService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/ProductManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/ProductManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/WorldManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Presenter/WorldManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Processes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Processes/ProcessRunner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Processes/ProcessRunner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/AI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/AI/PoliceAISystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/AI/PoliceAISystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Buyers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Buyers/BuyerManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Buyers/BuyerManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Buyers/BuyerProcess.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Buyers/BuyerProcess.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CameraMovement.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CameraMovement/CameraMovementManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CameraMovement/CameraMovementManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CameraMovement/City.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CameraMovement/City/CameraHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CameraMovement/City/CameraHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop/CarShopOffer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop/CarShopOffer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop/CarShopOfferProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop/CarShopOfferProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop/CarShopOffersConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop/CarShopOffersConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop/CarShopSceneManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarShop/CarShopSceneManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarSpawn.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarSpawn/CarSpawnConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarSpawn/CarSpawnConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarSpawn/CarSpawnManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarSpawn/CarSpawnManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarStripping.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarStripping/CarStripper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarStripping/CarStripper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarStripping/EnsureAtLeastOneStrippedPolicy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarStripping/EnsureAtLeastOneStrippedPolicy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarStripping/ProbabilityBasedStrippingPolicy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/CarStripping/ProbabilityBasedStrippingPolicy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/AssetDataTools.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/AssetDataTools/GraphAssetTools.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/AssetDataTools/GraphAssetTools.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/CityAreaAuthor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/CityAreaAuthor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/CityGraphAsset.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/CityGraphAsset.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/CityMarkerAuthor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/CityMarkerAuthor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Editor/CityGraphBaker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Editor/CityGraphBaker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Editor/CityMarkerRefDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Editor/CityMarkerRefDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Editor/CityTestGraphGenerator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Editor/CityTestGraphGenerator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Editor/RoadNodeAuthorShortcuts.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Editor/RoadNodeAuthorShortcuts.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Referencing.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Referencing/CityMarkerPicker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Referencing/CityMarkerPicker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Referencing/CityMarkerRef.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Referencing/CityMarkerRef.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Referencing/CityMarkerRefGraphResolver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Referencing/CityMarkerRefGraphResolver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/Referencing/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/RoadEdgeAuthor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/RoadEdgeAuthor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/RoadNodeAuthor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/RoadNodeAuthor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/TrafficLightAuthor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/TrafficLightAuthor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/TrafficLightProgramPreset.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Authoring/TrafficLightProgramPreset.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/CarStashWarehouse.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/CarStashWarehouse/CarStashProcess.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/CarStashWarehouse/CarStashProcess.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/CarStashWarehouse/CarStashWarehouse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/CarStashWarehouse/CarStashWarehouse.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/CarStashWarehouse/CarStashWarehouseConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/CarStashWarehouse/CarStashWarehouseConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/City.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/City.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/API.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/API/CityEntitiesCreationHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/API/CityEntitiesCreationHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/AspectsSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/AspectsSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntity.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityAspectEvents.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityAspectEvents.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityAspects.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityAspects.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityAspectsExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityAspectsExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityAspectsService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityAspectsService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityLifetimeService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityLifetimeService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityVisionAspects.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityEntityVisionAspects.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityLocatorHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/CityLocatorHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/VisionCenterConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityEntity/VisionCenterConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityGraphLoader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityGraphLoader.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/CityObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/RoadGraph.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/RoadGraph.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/RoadGraphMaintenance.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/RoadGraphMaintenance.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/[Old].meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/[Old]/Node.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/[Old]/Node.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/[Old]/SimpleGridNetwork.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Model/[Old]/SimpleGridNetwork.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/PlayerFigure.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/PlayerFigure/PlayerFigure.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/PlayerFigure/PlayerFigure.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/CityInteractionManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/CityInteractionManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/CitySceneManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/CitySceneManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/Domain.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/Domain/WarehouseEntryCooldownService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/Domain/WarehouseEntryCooldownService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/CityInteractionProfiles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/CityInteractionProfiles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/FreeRoamCityInteractionProfiles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/FreeRoamCityInteractionProfiles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/MissionCitySceneInteracitonProfile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/MissionCitySceneInteracitonProfile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/NormalCityInteractionProfiles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/NormalCityInteractionProfiles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/SellingCityInteractionProfiles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/SellingCityInteractionProfiles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/StealingCityInteractionProfiles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/InteractionProfiles/StealingCityInteractionProfiles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/SceneProfiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/SceneProfiles/CitySceneProfiles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Presenter/SceneProfiles/CitySceneProfiles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Areas.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Areas/CityAreaVisuals.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Areas/CityAreaVisuals.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Areas/CityAreasVisualsController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Areas/CityAreasVisualsController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Areas/PolygonTriangulator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Areas/PolygonTriangulator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/AspectsViewBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/AspectsViewBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CarSelectionVisuals.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CarSelectionVisuals/CarSelectionSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CarSelectionVisuals/CarSelectionSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CarSelectionVisuals/SelectableVisuals.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CarSelectionVisuals/SelectableVisuals.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CityViewObjectBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CityViewObjectBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CityViewObjectController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CityViewObjectController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CityViewStreetsBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/CityViewStreetsBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/DragDisabler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/DragDisabler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/DragInteractable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/DragInteractable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/InteractableOrderOnSelect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/InteractableOrderOnSelect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Nodes-GameConcept0.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Nodes-GameConcept0/NodesSegment.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Nodes-GameConcept0/NodesSegment.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Physics.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Physics/MovingPoint.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Physics/MovingPoint.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Physics/MovingPointSimpleView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Physics/MovingPointSimpleView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Physics/SpeedProviderFromCar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/Physics/SpeedProviderFromCar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/StreetsSingleton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/StreetsSingleton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/TrafficLights.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/TrafficLights/CityTrafficLightsSpawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/TrafficLights/CityTrafficLightsSpawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/TrafficLights/TrafficLightRuntimeController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/TrafficLights/TrafficLightRuntimeController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/ViewVisualStateChanger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/ViewVisualStateChanger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/VisionDistanceScaler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/VisionDistanceScaler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/VisionPinScaler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/View/VisionPinScaler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Vision.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Vision/CityFogRenderer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Vision/CityFogRenderer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Vision/CityVisibleSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Vision/CityVisibleSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Vision/CityVisionCentersSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/City/Vision/CityVisionCentersSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/ContextMenuManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/ContextMenuManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/FixedContextMenuManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/FixedContextMenuManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/ObjectWithPopupMenuTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/ContextMenu/ObjectWithPopupMenuTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug/DebugCustomActions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug/DebugCustomActions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug/DebugGameBootstrapper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug/DebugGameBootstrapper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug/DebugProductSpawner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Debug/DebugProductSpawner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/FreeRoam.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/FreeRoam/CollectableCityObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/FreeRoam/CollectableCityObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/FreeRoam/CollectablesManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/FreeRoam/CollectablesManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/FreeRoam/SimpleCarSpawnConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/FreeRoam/SimpleCarSpawnConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/EventData.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/EventData/GameEventsData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/EventData/GameEventsData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/EventData/MissionGlobalEvents.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/EventData/MissionGlobalEvents.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/EventData/PlayerActionEventData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/EventData/PlayerActionEventData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/EventData/TransactionEventData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/EventData/TransactionEventData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/GameEvents.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Game Events/GameEvents.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/IconBuilder.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/IconBuilder/IconBuilderHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/IconBuilder/IconBuilderHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/IconBuilder/IconBuilderManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/IconBuilder/IconBuilderManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/PlayerInputController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/PlayerInputController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/PlayerInputLocator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/PlayerInputLocator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/UIInputController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Input/UIInputController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Intro.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Intro/IntroScene.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Intro/IntroScene.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/MissionControllerBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/MissionControllerBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/Core/MissionConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/Core/MissionConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/Core/MissionEventBus.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/Core/MissionEventBus.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/Core/MissionRuntime.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/Core/MissionRuntime.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/MissionConditions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/MissionConditions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/MissionEffects.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/MissionEffects.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/MissionEvents.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/MissionEvents.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/RewardBundles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/Base/Model/RewardBundles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/MissionController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/MissionController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/TinyMonoBehaviourHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/TinyMonoBehaviourHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/World.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/World/WorldMissionsConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Missions/World/WorldMissionsConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/PersonalVehicleSelectorController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/PersonalVehicleSelectorController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/PersonalVehiclesList.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/PersonalVehiclesList.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/SelectPrimaryVehicleProcess.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/SelectPrimaryVehicleProcess.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/Shop.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/Shop/PersonalVehicleShop.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/Shop/PersonalVehicleShop.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/Shop/PersonalvehicleShopProcess.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/Shop/PersonalvehicleShopProcess.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/VehicleController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PersonalVehicles/VehicleController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Physics.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Physics/CollisionBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Physics/CollisionBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PinSystem.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PinSystem/UnknownInteractable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/PinSystem/UnknownInteractable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/Model/PoliceUnit.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/Model/PoliceUnit.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/PoliceLightsVisuals.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/PoliceLightsVisuals.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/PoliceManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/PoliceManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/View.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/View/PoliceLightsViewController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/View/PoliceLightsViewController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/View/PoliceSpotlightVisionVisuals.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/View/PoliceSpotlightVisionVisuals.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/View/PoliceStateViewController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Police/View/PoliceStateViewController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/CongradulationsMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/CongradulationsMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/MoneyGoal.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/MoneyGoal.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/MoneyGoalDisplayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/MoneyGoalDisplayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/MoneyGoalManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimpleMoneyGoal/MoneyGoalManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimplifiedCarsSystem.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimplifiedCarsSystem/CarsDefinitionLibrary.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimplifiedCarsSystem/CarsDefinitionLibrary.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimplifiedCarsSystem/SimplifiedCarsSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/SimplifiedCarsSystem/SimplifiedCarsSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Trigger(Clone).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Trigger(Clone).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Trigger.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Trigger/TriggerCausable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Trigger/TriggerCausable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Trigger/Triggerable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Trigger/Triggerable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/DemandSystem.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/DemandSystem/DemandOffer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/DemandSystem/DemandOffer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/DemandSystem/DemandSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/DemandSystem/DemandSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/API.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/API/WarehouseActionsHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/API/WarehouseActionsHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/CarPark.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/CarPark.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/GeneralStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/GeneralStorage.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/IStorageModule.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/IStorageModule.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/Warehouse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/Warehouse.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/WarehouseConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Model/WarehouseConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/ModelDataExtraction.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/ModelDataExtraction/CarDataExtractor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/ModelDataExtraction/CarDataExtractor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Physics.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Physics/DirectDragInteractable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Physics/DirectDragInteractable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Physics/DragCollisionDisabler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Physics/DragCollisionDisabler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Physics/DragSortingOrderChanger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Physics/DragSortingOrderChanger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/CarMechanicService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/CarMechanicService.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/InteractionProfiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/InteractionProfiles/FreeRoamWarehouseContextMenuProfile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/InteractionProfiles/FreeRoamWarehouseContextMenuProfile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/InteractionProfiles/NeutralWarehouseContextMenuProfile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/InteractionProfiles/NeutralWarehouseContextMenuProfile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/InteractionProfiles/WarehouseInteractionProfiles.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/InteractionProfiles/WarehouseInteractionProfiles.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/PlayerPossessionTracker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/PlayerPossessionTracker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/WarehouseInteractionManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/WarehouseInteractionManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/WarehouseSceneManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/Presenter/WarehouseSceneManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/CarPartGameObjectBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/CarPartGameObjectBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/CarPartView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/CarPartView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/MonolythProductGameObjectBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/MonolythProductGameObjectBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/PhysicalViewBuilder.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/PhysicalViewBuilder/PhysicalProductGameObjectBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/PhysicalViewBuilder/PhysicalProductGameObjectBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/PhysicalViewBuilder/WheelSpringMotor2D.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/PhysicalViewBuilder/WheelSpringMotor2D.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/WarehouseCarView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/WarehouseCarView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/WarehouseProductGameObjectBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/WarehouseProductGameObjectBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/WarehouseProductView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/WarehouseProductView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/WarehouseViewCarsHolder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/WarehouseViewCarsHolder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/WheelCarPartView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/Warehouse/View/WheelCarPartView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/[General]Interaction.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/[General]Interaction/IDirectionProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/[General]Interaction/IDirectionProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/[General]Product.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/[General]Product/View.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/[General]Product/View/ProductView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Systems/[General]Product/View/ProductView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Core/IUIElementBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Core/IUIElementBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Core/UIElement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Core/UIElement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Core/ViewWidget.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Core/ViewWidget/ViewWidget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Core/ViewWidget/ViewWidget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/CameraViewSetter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/CameraViewSetter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/DebugImageEnabler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/DebugImageEnabler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/DynamicCanvasGroups.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/DynamicCanvasGroups.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/GlobalUIMethods.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Misc/GlobalUIMethods.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/BlockUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/BlockUI/BlockUIManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/BlockUI/BlockUIManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/CarShop.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/CarShop/CarShopUIManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/CarShop/CarShopUIManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIPin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIPin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIPinDragHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIPinDragHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIPinPositioner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/CityUIPinPositioner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/VehicleControl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/VehicleControl/VehicleButtonUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/VehicleControl/VehicleButtonUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/VehicleControl/VehicleControlUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/VehicleControl/VehicleControlUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/ViewStateChangerUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/City/ViewStateChangerUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/CTX_Menu_Tools.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/CTX_Menu_Tools.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/ContextMenuCanvas.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/ContextMenuCanvas.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/FixedContextMenuCanvas.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/FixedContextMenuCanvas.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/PopUpContextMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ContextMenu/PopUpContextMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/FixedPopup.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/GlobalHint.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/GlobalHint/GlobalHintManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/GlobalHint/GlobalHintManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/Pause.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/Pause/PauseMenuManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/Pause/PauseMenuManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI/MoneyDisplayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI/MoneyDisplayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI_FX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI_FX/UIEffectsDisplayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI_FX/UIEffectsDisplayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI_FX/UI_FX_Manager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/UI_FX/UI_FX_Manager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/ButtonView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/ButtonView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/Views.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/Views/CarEntryView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/Views/CarEntryView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/Views/PrimarySelectionCarButtonView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/Views/PrimarySelectionCarButtonView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/Views/VerticalContentWidgetView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/Systems/ViewWidget/Views/VerticalContentWidgetView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/View.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/View/ButtonStateController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/View/ButtonStateController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/View/SimpleUIBuilder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/UI/View/SimpleUIBuilder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Utils.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Utils/CarSpriteStaticRenderer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/Utils/CarSpriteStaticRenderer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort].meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/AreaProgressionManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/AreaProgressionManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/AutoHidingButtonWidgetView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/AutoHidingButtonWidgetView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/BuyerInfoWidgetView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/BuyerInfoWidgetView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CarFlexibleJunctionPolicy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CarFlexibleJunctionPolicy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CarInfoWidgetView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CarInfoWidgetView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CenterButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CenterButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CityArea.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CityArea.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CityRootManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CityRootManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CloseButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CloseButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CustomUIAnimation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CustomUIAnimation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/Database.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/Database/GameDatabaseContainer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/Database/GameDatabaseContainer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/DebugCommands.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/DebugCommands.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/GenericInfoViewWidget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/GenericInfoViewWidget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/ProgressOverviewManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/ProgressOverviewManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/ProgressionUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/ProgressionUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/ProgressionUIManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/ProgressionUIManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/ScrollWithSliderTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/ScrollWithSliderTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/SpatialGrid.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/SpatialGrid.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/SpatialGridConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/SpatialGridConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/SpatialGridManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/SpatialGridManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/TextConventionsHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/TextConventionsHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/TrafficLightViewController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/TrafficLightViewController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/TrafficLight_LightView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/TrafficLight_LightView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/TutorialSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/TutorialSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/VehicleControllerConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/VehicleControllerConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/VehicleShopConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/VehicleShopConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Audio/AudioController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Audio/AudioController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Audio/AudioParamsConfig.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Audio/AudioParamsConfig.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Build.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Build/BuildDisplayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Build/BuildDisplayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Build/BuildScriptableObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Build/BuildScriptableObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/CoffeeUISoftMask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/CoffeeUISoftMask/SoftMaskTransparency.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/CoffeeUISoftMask/SoftMaskTransparency.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Collider2DGizmoDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Collider2DGizmoDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/CommonTools.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/CommonTools.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/CommonTools.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/CommonTools.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Logic.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Logic/CustomTrigger2D.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Logic/CustomTrigger2D.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Logic/Entity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Logic/Entity.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Logic/StayArea.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Logic/StayArea.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/ParallaxTransform.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/ParallaxTransform.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/RoutinedObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/RoutinedObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Shaders/AlphaCutoffMask.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Shaders/AlphaCutoffMask.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/SingletonScriptableObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/SingletonScriptableObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/CanvasGroupTransparency.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/CanvasGroupTransparency.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/GraphicTransparency.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/GraphicTransparency.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/ITransparencyController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/ITransparencyController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/MaskedImageTransparency.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/MaskedImageTransparency.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/ParticleSystemTransparency.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/ParticleSystemTransparency.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/Transparency.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/Transparency/Transparency.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/UI/CustomVirtualJoystick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CommonScripts/UI/CustomVirtualJoystick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Pixelplacement.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Pixelplacement.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Chooser/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Chooser/Editor/ChooserEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Chooser/Editor/ChooserEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/ColliderButton/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/ColliderButton/Editor/ColliderButtonEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/ColliderButton/Editor/ColliderButtonEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/DisplayObject/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/DisplayObject/Editor/DisplayObjectEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/DisplayObject/Editor/DisplayObjectEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Editor/InitializationRequirements.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Editor/InitializationRequirements.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Spline/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Spline/Editor/SplineAnchorEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Spline/Editor/SplineAnchorEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Spline/Editor/SplineEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Spline/Editor/SplineEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Spline/Editor/SplineTangentEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/Spline/Editor/SplineTangentEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/StateMachine/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/StateMachine/Editor/StateEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/StateMachine/Editor/StateEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/StateMachine/Editor/StateMachineEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Pixelplacement/Surge/StateMachine/Editor/StateMachineEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Build.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Build.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,8 +930,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/CarSeller/Scripts/Global/Main/GlobalSingletonBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/CarSeller/Scripts/[ToSort]/CityRootManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@be6c4fd0abf5/InputSystem/Plugins/PlayerInput/PlayerInput.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@aa507f3228f0/Runtime/UGUI/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@aa507f3228f0/Tests/Runtime/UGUI/Canvas/CanvasSizeCorrectInAwakeAndStart.cs" root0="SKIP_HIGHLIGHTING" />
@@ -196,7 +1020,7 @@
       <updated>1776841362289</updated>
       <workItem from="1776841368323" duration="8047000" />
       <workItem from="1777128370295" duration="9786000" />
-      <workItem from="1777293259371" duration="7425000" />
+      <workItem from="1777293259371" duration="12044000" />
     </task>
     <servers />
   </component>

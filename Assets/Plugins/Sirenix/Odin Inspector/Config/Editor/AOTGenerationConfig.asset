@@ -20,144 +20,141 @@ MonoBehaviour:
   - TypeName: System.Boolean, mscorlib
     IsCustom: 0
     Emit: 1
-  - TypeName: BustedCondition, Assembly-CSharp
+  - TypeName: BustedCondition, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: CarBaseConfig, ProductCore
+  - TypeName: CarBaseConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: CarKind, ProductCore
+  - TypeName: CarKind, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: CarRarity, ProductCore
+  - TypeName: CarRarity, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: CarType, ProductCore
+  - TypeName: CarType, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: CityGraphAsset, Assembly-CSharp
+  - TypeName: CityGraphAsset, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: CityMarkerRef, Assembly-CSharp
+  - TypeName: CityMarkerRef, CarSeller
     IsCustom: 0
     Emit: 1
   - TypeName: UnityEngine.Color, UnityEngine.CoreModule
     IsCustom: 0
     Emit: 1
-  - TypeName: CurrencyRewardBundle, Assembly-CSharp
+  - TypeName: CurrencyRewardBundle, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: System.Collections.Generic.Dictionary`2[[CarType, ProductCore],[UnityEngine.Sprite,
+  - TypeName: System.Collections.Generic.Dictionary`2[[CarType, CarSeller],[UnityEngine.Sprite,
       UnityEngine.CoreModule]], mscorlib
     IsCustom: 0
     Emit: 1
-  - TypeName: EngineBaseConfig, ProductCore
+  - TypeName: EngineBaseConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: EngineSlotBaseConfig, ProductCore
+  - TypeName: EngineSlotBaseConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: EngineSlotVariantConfig, ProductCore
+  - TypeName: EngineSlotVariantConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: EngineVariantConfig, ProductCore
+  - TypeName: EngineVariantConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: System.Collections.Generic.EnumEqualityComparer`1[[CarType, ProductCore]],
+  - TypeName: System.Collections.Generic.EnumEqualityComparer`1[[CarType, CarSeller]],
       mscorlib
     IsCustom: 0
     Emit: 1
   - TypeName: System.Single, mscorlib
     IsCustom: 0
     Emit: 1
-  - TypeName: System.Collections.Generic.IEqualityComparer`1[[CarType, ProductCore]],
+  - TypeName: System.Collections.Generic.IEqualityComparer`1[[CarType, CarSeller]],
       mscorlib
     IsCustom: 0
     Emit: 1
   - TypeName: System.Int32, mscorlib
     IsCustom: 0
     Emit: 1
-  - TypeName: System.Collections.Generic.List`1[[CarBaseConfig, ProductCore]], mscorlib
+  - TypeName: System.Collections.Generic.List`1[[CarBaseConfig, CarSeller]], mscorlib
     IsCustom: 0
     Emit: 1
-  - TypeName: System.Collections.Generic.List`1[[MissionCondition, Assembly-CSharp]],
+  - TypeName: System.Collections.Generic.List`1[[MissionCondition, CarSeller]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[MissionEffect, CarSeller]], mscorlib
+    IsCustom: 0
+    Emit: 1
+  - TypeName: System.Collections.Generic.List`1[[PartSlotBaseConfig, CarSeller]],
       mscorlib
     IsCustom: 0
     Emit: 1
-  - TypeName: System.Collections.Generic.List`1[[MissionEffect, Assembly-CSharp]],
+  - TypeName: System.Collections.Generic.List`1[[PartSlotVariantConfig, CarSeller]],
       mscorlib
     IsCustom: 0
     Emit: 1
-  - TypeName: System.Collections.Generic.List`1[[PartSlotBaseConfig, ProductCore]],
-      mscorlib
+  - TypeName: System.Collections.Generic.List`1[[RewardBundle, CarSeller]], mscorlib
     IsCustom: 0
     Emit: 1
-  - TypeName: System.Collections.Generic.List`1[[PartSlotVariantConfig, ProductCore]],
-      mscorlib
+  - TypeName: MissionCondition, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: System.Collections.Generic.List`1[[RewardBundle, Assembly-CSharp]],
-      mscorlib
+  - TypeName: MissionConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: MissionCondition, Assembly-CSharp
+  - TypeName: MissionEffect, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: MissionConfig, Assembly-CSharp
+  - TypeName: MissionLauncherAcceptedCondition, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: MissionEffect, Assembly-CSharp
+  - TypeName: MissionLauncherConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: MissionLauncherAcceptedCondition, Assembly-CSharp
+  - TypeName: PartSlotBaseConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: MissionLauncherConfig, Assembly-CSharp
+  - TypeName: PartSlotData, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: PartSlotBaseConfig, ProductCore
+  - TypeName: PartSlotVariantConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: PartSlotData, ProductCore
+  - TypeName: PinStyle, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: PartSlotVariantConfig, ProductCore
+  - TypeName: PoliceEffect, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: PinStyle, Assembly-CSharp
+  - TypeName: ReachTargetCondition, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: PoliceEffect, Assembly-CSharp
+  - TypeName: ResetMissionEffect, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: ReachTargetCondition, Assembly-CSharp
+  - TypeName: RewardBundle, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: ResetMissionEffect, Assembly-CSharp
+  - TypeName: SpawnMissionLauncherEffect, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: RewardBundle, Assembly-CSharp
+  - TypeName: SpawnMoneyCollectablesEffect, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: SpawnMissionLauncherEffect, Assembly-CSharp
+  - TypeName: SpawnTargetEffect, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: SpawnMoneyCollectablesEffect, Assembly-CSharp
+  - TypeName: SpoilerBaseConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: SpawnTargetEffect, Assembly-CSharp
+  - TypeName: SpoilerSlotBaseConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: SpoilerBaseConfig, ProductCore
+  - TypeName: SpoilerSlotVariantConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: SpoilerSlotBaseConfig, ProductCore
-    IsCustom: 0
-    Emit: 1
-  - TypeName: SpoilerSlotVariantConfig, ProductCore
-    IsCustom: 0
-    Emit: 1
-  - TypeName: SpoilerVariantConfig, ProductCore
+  - TypeName: SpoilerVariantConfig, CarSeller
     IsCustom: 0
     Emit: 1
   - TypeName: UnityEngine.Sprite, UnityEngine.CoreModule
@@ -166,10 +163,10 @@ MonoBehaviour:
   - TypeName: System.String, mscorlib
     IsCustom: 0
     Emit: 1
-  - TypeName: TimeElapsedCondition, Assembly-CSharp
+  - TypeName: TimeElapsedCondition, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: UnlockMissionEffect, Assembly-CSharp
+  - TypeName: UnlockMissionEffect, CarSeller
     IsCustom: 0
     Emit: 1
   - TypeName: UnityEngine.Vector2, UnityEngine.CoreModule
@@ -178,15 +175,15 @@ MonoBehaviour:
   - TypeName: UnityEngine.Vector3, UnityEngine.CoreModule
     IsCustom: 0
     Emit: 1
-  - TypeName: WheelBaseConfig, ProductCore
+  - TypeName: WheelBaseConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: WheelSlotBaseConfig, ProductCore
+  - TypeName: WheelSlotBaseConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: WheelSlotVariantConfig, ProductCore
+  - TypeName: WheelSlotVariantConfig, CarSeller
     IsCustom: 0
     Emit: 1
-  - TypeName: WheelVariantConfig, ProductCore
+  - TypeName: WheelVariantConfig, CarSeller
     IsCustom: 0
     Emit: 1
