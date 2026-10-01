@@ -73,3 +73,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Local copy/paste package for the itch.io game page
+/.itchio-handoff/
+
+# Personal Obsidian vault configuration, plugins, and workspace state
+/.obsidian/
+# Obsidian's local deleted-note storage
+/.trash/
