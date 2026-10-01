@@ -61,6 +61,8 @@ Trace an existing interaction through its profile, IProcess, rules, transaction 
 
 Use live processes rather than the obsolete GameFlowManager's commented workflows. Pair event subscriptions/unsubscriptions, and exercise scene changes and restarting.
 
+See [Developer cheats and debug controls](getting-started.md#developer-cheats-and-debug-controls) for shortcuts used during testing.
+
 ## Run existing tests
 
 [ConfigResolverTest.cs](../Assets/CarSeller/Tests/Editor/ConfigResolverTest.cs) belongs to the `Came.Core.EditorTests` assembly. It covers bases, variants, fallback, overrides, frames, slots and missing configuration.
@@ -92,4 +94,3 @@ Inspect XML and logs for success. This command is documentation, not a reported 
 | README media | Local links, GIF decoding/frames and Git inclusion. |
 
 Review git status before committing. Imports and builds can modify serialized assets; include changes only when they belong to the task.
-

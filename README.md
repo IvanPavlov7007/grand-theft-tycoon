@@ -61,7 +61,7 @@ The prototype makes the city your playing board: inspect an object, drag your ca
 | Buy or switch personal vehicles | Visit the vehicle shop. |
 | Save a car for later | Take it to the stolen-car stash. |
 
-You return to your personal vehicle when you leave a stolen one. The interaction is designed around pointing and dragging; keyboard bindings in the Unity project also include development actions.
+You return to your personal vehicle when you leave a stolen one. The interaction is designed around pointing and dragging; keyboard bindings in the Unity project also include [developer cheats and debug controls](docs/getting-started.md#developer-cheats-and-debug-controls), including 10× simulation speed.
 
 ## Project status
 

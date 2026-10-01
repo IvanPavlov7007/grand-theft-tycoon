@@ -70,6 +70,26 @@ Click/tap to inspect; drag the controlled vehicle to move, take a car, or intera
 
 Declared actions do not guarantee implemented player behavior. Check listeners before treating other bindings as controls.
 
+## Developer cheats and debug controls
+
+These shortcuts use the **Player** action map and the debug components in [Core.prefab](../Assets/CarSeller/Resources/Prefabs/Core/Core.prefab). [DebugCommands](../Assets/CarSeller/Scripts/Runtime/%5BToSort%5D/DebugCommands.cs) compiles its handlers when `UNITY_EDITOR || DEBUG` is defined. Availability in a standalone build depends on its compilation symbols and included components. Pausing switches to the UI action map.
+
+| Input | Action | Behavior |
+| --- | --- | --- |
+| **Left Shift**; gamepad left-stick press; XR trigger | Sprint | Toggle simulation speed between **1× and 10×**. Press again to return to normal; this is a toggle, not a hold-to-speed-up control with the current input setup. |
+| **A** | A | Spawn a car at the currently controlled vehicle's city position. Requires an initialized run. |
+| **S** | S | Spawn an unrestricted buyer at the currently controlled vehicle's city position. Requires an initialized run. |
+| **L** | L | Toggle the visibility cheat: make tracked visibility aspects visible and mark them discovered. Turning it off does not undo discovery. |
+| **W** | W | Toggle highlighting for all city areas. Requires CityAreasVisualsController in the scene. |
+| **Q** | Q | Toggle CarFlexibleJunctionPolicy.IgnoreRules. Currently that policy returns all outgoing edges before its rule checks, so this flag has no effect on those checks. |
+| **Ctrl + R** | Restart | Restart through scene index 0. GameManager subscribes to this only under `UNITY_EDITOR`. |
+| **C**; gamepad east button | Crouch | Under `DEBUG`, DebugCustomActions invokes a click on the first Interactable found. This is a debug hook; the object is not selected by the pointer. |
+
+**D** and **Space / gamepad south button** also have debug hooks, but their current handlers are empty.
+
+The current Core prefab uses PlayerInput **Send Messages**, and these actions are buttons. The installed Input System forwards performed button events rather than release/canceled events in this mode, which is why the toggles change once per press. The speed multiplier comes from [GameManager](../Assets/CarSeller/Scripts/Runtime/Global/GameManager.cs); it changes simulation time, rather than just vehicle speed.
+
+
 ## Make a browser build
 
 1. Install Web Build Support for this editor through Unity Hub.
@@ -94,4 +114,3 @@ Declared actions do not guarantee implemented player behavior. Check listeners b
 | Source system is absent in gameplay | Active config, scene components, initialization and event wiring. |
 
 This guide was checked against source and assets; a fresh Unity import and Web build have not been verified as part of the documentation change.
-
