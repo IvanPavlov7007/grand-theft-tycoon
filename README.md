@@ -93,3 +93,7 @@ Most game code lives in [`Assets/CarSeller`](Assets/CarSeller). [`Assets/CommonS
 ## Credits
 
 **Art, programming, and design:** [Ivan Pavlov](https://ivanpavlov.itch.io/). Built with Unity and additional third-party assets and tools; see [Credits](docs/credits.md).
+
+## License
+
+Original code and documentation are licensed under the [MIT License](LICENSE), copyright © 2026 Ivan Pavlov. Game artwork and other non-code assets are excluded; original artwork remains all rights reserved, and third-party content retains its own licenses. See [Licensing](LICENSING.md) for the scope and existing third-party notices.

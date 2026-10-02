@@ -37,5 +37,5 @@ These sources are credited on the public game page:
 
 Built with Unity and the dependencies in [manifest.json](../Packages/manifest.json), plus bundled plugins and art packs under Assets. Their notices and licenses belong to their distributions.
 
-No project-wide license file is currently provided at the repository root. This documentation does not assign a new license to the game or third-party assets.
+Original code and documentation are covered by the [MIT License](../LICENSE). Game artwork and other non-code assets are excluded, and third-party content retains its own terms. See [Licensing](../LICENSING.md) for the scope and existing third-party notices.
 
